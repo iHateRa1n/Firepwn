@@ -1,6 +1,6 @@
 var STR="A";
 var JST="";
-var REP=1048576;
+var REP=parseInt(prompt("LR_SET"));
 
 /*
 Done with variable creation. 
